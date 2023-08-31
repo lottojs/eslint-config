@@ -69,5 +69,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 [issues-url]: https://github.com/lottojs/eslint-config/issues
 [license-shield]: https://img.shields.io/github/license/lottojs/eslint-config.svg?style=for-the-badge
 [license-url]: https://github.com/lottojs/eslint-config/blob/master/LICENSE.txt
-[npm-shield]: https://img.shields.io/npm/v/%40lottojs%2Fts-config?style=for-the-badge&logo=npm&logoColor=FFFFFF&labelColor=555555&color=CB0001
+[npm-shield]: https://img.shields.io/npm/v/@lottojs/eslint-config?style=for-the-badge&logo=npm&logoColor=FFFFFF&labelColor=555555&color=CB0001
 [npm-url]: https://www.npmjs.com/package/@lottojs/eslint-config
